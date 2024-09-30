@@ -1,2 +1,2 @@
-# learning-webgl-malvinlh
-learning-webgl-malvinlh created by GitHub Classroom
+# learning-webgl-hadziq
+learning-webgl-hadziq created by GitHub Classroom
